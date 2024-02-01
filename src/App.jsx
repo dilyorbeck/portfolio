@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function App() {
   return (
     <div className="flex h-screen w-screen bg-[#163c3d] p-5 justify-center items-center">
